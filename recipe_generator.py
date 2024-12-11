@@ -41,7 +41,9 @@ def get_prompt(name,language):
     - Maintain cultural authenticity and appropriateness for all languages.
     - The recipe should be practical, engaging, and free of any factual errors.
     - The ingredients should be written on Separate lines so it is easily readable. 
-    - And add the area (state or country) name from were the recipe belongs to at the beginning after the name of recipe,such as:   **Name:** Chai 
+    - And add the area (state or country) name from were the recipe belongs to at the beginning after the name of recipe,such as:  
+        Chai 
+        
         Did you know that Dal Dhokli is a popular dish from Gujarat, India?
         for all recipe asked, you can style as per requirement, and change the language ass per selection for this line .
     Ensure the final output is well-structured, contextually accurate, and engaging for users.
