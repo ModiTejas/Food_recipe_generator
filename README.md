@@ -71,6 +71,8 @@ This project wouldn’t be possible without:
 
 Special thanks to everyone who contributed to advancing AI-powered applications! 🙌
 
+---
+
 Crafted with care and curiosity by **Modi Tejas**. 😊
 
 Enjoy your culinary adventures with **Food Recipe Generator**! 🍳✨
